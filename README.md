@@ -118,4 +118,4 @@ You can now test your new admin password:
 ```shell
 mysql -uadmin -p"mypass"
 ```
-#test
+Test
